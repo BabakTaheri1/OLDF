@@ -8,7 +8,7 @@ Hey, welcome to the repository! This is the code for our *IEEE Transactions on S
 
 ## Using This in Your Work?
 
-If you find this code or our method helpful in your research, we'd really appreciate it if you cited our paper. Thanks!
+If you find this code or our method helpful in your research, we'd appreciate it if you cited our paper. Thanks!
 
 ### Plain Text Citation
 
