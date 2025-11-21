@@ -18,7 +18,7 @@ If you find this code or our method helpful in your research, we'd appreciate it
 
 ```bibtex
 @ARTICLE{Taheri2025,
-  author={Taheri, Behzad and Gupta, Rohit K. and Molzahn, Daniel K.},
+  author={Taheri, Babak and Gupta, Rahul K. and Molzahn, Daniel K.},
   journal={IEEE Transactions on Smart Grid}, 
   title={Optimizing Parameters of the LinDistFlow Power Flow Approximation for Distribution Systems}, 
   year={2025},
