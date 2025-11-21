@@ -4,9 +4,6 @@ Hey, welcome to the repository! This is the code for our *IEEE Transactions on S
 
 **"Optimizing Parameters of the LinDistFlow Power Flow Approximation for Distribution Systems"**
 
----
-
-## Using This in Your Work?
 
 If you find this code or our method helpful in your research, we'd appreciate it if you cited our paper. Thanks!
 
